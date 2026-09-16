@@ -336,9 +336,3 @@ The project includes an automated test runner (`lsm_tests`) covering **25 tests*
 - **Leveled Compaction**: Implement a LevelDB-style leveled compaction strategy with non-overlapping key ranges per level.
 - **Block Cache**: Add an LRU uncompressed block cache to reduce read latency on hot data.
 - **Iterators / Range Queries**: Expose forward and reverse iterators over the unified LSM view.
-
----
-
-## Documentation
-
-- System specification: [Project_Specs/LSM-Tree_KV_Store.md](Project_Specs/LSM-Tree_KV_Store.md)
