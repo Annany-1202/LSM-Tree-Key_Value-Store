@@ -1,0 +1,13 @@
+build/
+demo_db/
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.sst
+*.log
+*.tmp
+README2.md
+my_cmake_config.md
